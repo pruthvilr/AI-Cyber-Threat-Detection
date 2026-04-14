@@ -21,3 +21,6 @@ An intelligent Intrusion Detection System (IDS) that utilizes machine learning t
 - `src/detector.py`: Core data preprocessing and normalization logic.
 - `main.py`: Model training, evaluation, and visualization pipeline.
 - `outputs/`: Performance heatmaps and threat logs.
+
+<img width="600" height="600" alt="metrics" src="https://github.com/user-attachments/assets/9c68c164-bdfc-42eb-9b69-f528796adadf" />
+
